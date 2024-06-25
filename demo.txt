@@ -1,2 +1,3 @@
 Hello, world!
-Eu amo viajar
+Eu amo viajar!
+Estudar programação me permite ganhar dinheiro de montão!
